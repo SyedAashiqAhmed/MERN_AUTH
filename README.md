@@ -1,9 +1,8 @@
 # MERN Login/Register App
 
-## 📽️ Demo Video
-## 📽️ Demo Video
+[![Demo Video](thumbnail.png)](https://drive.google.com/file/d/1j8fPl8uYG5caT8UZa2tQLFcnAYmEW6B5/view)
 
-[▶️ Click here to watch the demo video](https://drive.google.com/file/d/1j8fPl8uYG5caT8UZa2tQLFcnAYmEW6B5/view)
+
 
 
 
